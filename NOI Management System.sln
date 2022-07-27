@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOI Management System", "NOI Management System\NOI Management System.csproj", "{8098293D-C722-422A-8C55-AAB97E054905}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOI Management System", "NOI Management System\NOI Management System.csproj", "{8098293D-C722-422A-8C55-AAB97E054905}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOI System API", "NOI System API\NOI System API.csproj", "{46A45503-AEC1-4767-BACD-5D313C26FD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NOI System API", "NOI System API\NOI System API.csproj", "{46A45503-AEC1-4767-BACD-5D313C26FD35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared Models", "Shared\Shared Models.csproj", "{36244A10-7EBC-4D08-9CEB-62BF02F7C1CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared Models", "Shared\Shared Models.csproj", "{36244A10-7EBC-4D08-9CEB-62BF02F7C1CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
